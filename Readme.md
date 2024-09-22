@@ -19,6 +19,10 @@
 5. [SignalR](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0)
 6. [Notiflix](https://notiflix.github.io/documentation)
 
+#### App Design
+![image](https://github.com/user-attachments/assets/99f72efa-0708-482d-832d-9e2da337ff68)
+
+
 #### Refrences
 * [Theme](https://preview.keenthemes.com/metronic8/demo23/account/settings.html)
 * [Cron expression sample](https://crontab.guru/#0_*/1_*_*_*)
